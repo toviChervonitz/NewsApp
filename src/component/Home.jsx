@@ -1,14 +1,11 @@
 import '../App.css'
-import Navbar from './Navbar'
 import Content from './Content'
-import Sidevar from './Sidebar'
-import AppRoutes from '../AppRoutes'
+
 
 function Home() {
 
   return (
     <>
-
       <div className="content">
         <div className="items">
           <Content
